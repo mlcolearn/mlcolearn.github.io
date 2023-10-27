@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+This is a collaborative meeting space where researchers come together to share challenges and find Machine Learning solutions for their specific research projects. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Designed as a bridge between ML algorithms and their practical application in research, MLCoLearn serves as a platform for collective problem-solving and skill enhancement.
