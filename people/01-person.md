@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Person One"
 ---
 
-Researcher - Physics & Astronomy
+Founder
 
-Some University - 1 Main Street, Canada
+University of Bonn
 
 Phone: (000) 000-0000
 
