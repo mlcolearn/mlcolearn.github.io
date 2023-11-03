@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Person One"
+title: "Alana Darcher"
 ---
 
 Founder
