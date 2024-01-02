@@ -1,13 +1,20 @@
+<!DOCTYPE html>
+<html>
+
 <head>
 
 <style>
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
+.title-container {
+  text-align: center;
+  margin-top: 50px; /* Adjust the margin as needed */
+}
 
-        }
-    </style>
+.title-container h1 {
+  font-size: 24px; /* Adjust the font size as needed */
+  /* Additional styles for the title */
+}
+</style>
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <title>{{ page.title }} | {{ site.title }}</title>
@@ -19,3 +26,18 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
+
+<body>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var titleText = document.querySelector("title").innerText;
+
+      var titleContainer = document.createElement("div");
+      titleContainer.classList.add("title-container");
+      titleContainer.innerHTML = "<h1>" + titleText + "</h1>";
+
+      document.body.appendChild(titleContainer);
+    });
+  </script>
+</body>
+</html>
