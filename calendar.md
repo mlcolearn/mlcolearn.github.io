@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Optional: Adjust the height as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="center">
+    <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBerlin&showTitle=1&title=MLCoLearn%20Events&showPrint=0&showTabs=0&showCalendars=0&src=NGQ5ZWQwZGMxZWNlYzQzMmQ0MDQxMmQ1ZDE0YjQzZTQ1ZTE0OGNmMjI4NDBjYmYyNjcwODcwMThlMzZjMWIwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23795548" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+</div>
+
+</body>
+</html>
+
+
