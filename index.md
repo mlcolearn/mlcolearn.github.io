@@ -21,6 +21,6 @@ The meet-up happens in Bonn, every other week.
 
 A typical session begins with topic pitches, in which a speaker or group member presents a dataset, method, problem, or whatever they want to work on with the group. Attendees then work on or discuss whichever topic interests them the most. 
 
-If you're curious about the kinds of topics we discuss, check out the code and materials from past sessions on the meet-up GitHub: <a href="https://github.com/mlcolearn/mlcolearn-meetup-season1" class="visible-link">here.</a>
+If you're curious about the kinds of topics we discuss, check out the code and materials from past sessions on the meet-up GitHub: <a href="https://github.com/mlcolearn/mlcolearn-meetup-season1" class="visible-link" target="_blank">here.</a>
 
 If you're interested in joining, please get in touch! You can reach us by <a href="mailto:alana.darcher@ukbonn.de">email</a>.
