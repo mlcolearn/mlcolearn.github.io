@@ -1,6 +1,6 @@
 ---
 layout: home
-title: <title>MLCoLearn - neuro X ML meet-up space</title>
+title: MLCoLearn | neuro X ML
 
 ---
 
